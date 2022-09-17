@@ -88,7 +88,7 @@ public class A101StepDefinitions {
         actions.sendKeys(a101Page.adresBasligi, faker.expression("Ev"), Keys.TAB).
                 sendKeys(faker.name().firstName(), Keys.TAB).
                 sendKeys(faker.name().lastName(), Keys.TAB).
-                sendKeys(faker.phoneNumber().cellPhone(), Keys.TAB).
+                sendKeys(faker.phoneNumber().phoneNumber(), Keys.TAB).
                 perform();
 
         select.selectByVisibleText("İSTANBUL");
