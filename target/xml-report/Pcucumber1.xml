@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="40.995">
+    <testcase classname="US001_Payment Screen Test" name="TC01 Add product to the list and process" time="40.62">
+        <system-out><![CDATA[Given user goes to "A101URL" webpage........................................passed
+Then accepts cookies........................................................passed
+Then hovers GiyimAksesuar button............................................passed
+Then clicks DizAltiCorap button.............................................passed
+Then clicks first product and confirms its black color......................passed
+Then clicks Sepete Ekle button..............................................passed
+Then clicks Sepeti Görüntüle button.........................................passed
+Then clicks Sepeti Onayla button............................................passed
+Then clicks Üye Olmadan Devam Et button.....................................passed
+Then enters email address and proceeds to payment page......................passed
+Then clicks Yeni adres olustur button.......................................passed
+Then fullfills requirements and saves address...............................passed
+Then proceeds to payment page...............................................passed
+Then verifys the last payment page..........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
