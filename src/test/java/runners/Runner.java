@@ -13,8 +13,6 @@ import org.junit.runner.RunWith;
         glue = "StepDefinitions",
         tags = "@happyTesting",
         dryRun = false
-
-
 )
 
 public class Runner {
