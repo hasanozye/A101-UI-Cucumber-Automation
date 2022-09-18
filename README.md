@@ -8,3 +8,4 @@ Zamanınız ve Vaktiniz için içtenlikle teşekkürler :)
 
 
 ***APPİUM İÇİN*** :"https://github.com/hasanozye/Appium_TestOtomasyon_Cucumber"
+![test_ekranı](https://user-images.githubusercontent.com/100432010/190923957-c60c0b75-5548-4028-bfc0-f802dadd6f6b.PNG)
